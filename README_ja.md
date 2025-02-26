@@ -1,6 +1,6 @@
 # ROS2 Driver of CoDrone Edu
 
-[English Version README](https://github.com/jyamauchi780/CoDroneEdu-ROS2/blob/main/README.md)
+[English Version README](https://github.com/jyamauchi780/codrone_edu_ros2)
 
 ## 概要
 - Robolink から発売されている CoDrone Edu をROS2で使用するための非公式パッケージです．
@@ -24,7 +24,7 @@
 ```sh
     $ mkdir -p ~/ros2_ws/src/
     $ cd ~/ros2_ws/src
-    $ git clone https://github.com/jyamauchi780/CoDroneEdu-ROS2.git
+    $ git clone https://github.com/jyamauchi780/codrone_edu_ros2.git
     $ cd ~/ros2_ws
     $ colcon build --symlink-install
     $ . ~/ros2_ws/install/setup.bash
