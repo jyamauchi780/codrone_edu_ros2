@@ -92,5 +92,5 @@ To use a control system designed to treat CoDrone Edu as an integrator, run the 
 
 
 ## License
-This software is released under the MIT License, see [LICENSE](https://github.com/jyamauchi780/CoDroneEdu-ROS2/blob/main/LICENSE).
+This software is released under the MIT License, see [LICENSE](https://github.com/jyamauchi780/codrone_edu_ros2/blob/main/LICENSE).
 

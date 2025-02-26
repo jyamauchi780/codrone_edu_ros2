@@ -90,5 +90,5 @@ SerialNumberの行に表示されるスマートコントローラのシリア�
 - 電源ボタン：ROSから切り離してスマートコントローラのみでCoDrone Eduを制御
 
 ## License
-This software is released under the MIT License, see [LICENSE](https://github.com/jyamauchi780/CoDroneEdu-ROS2/blob/main/LICENSE).
+This software is released under the MIT License, see [LICENSE](https://github.com/jyamauchi780/codrone_edu_ros2/blob/main/LICENSE).
 
