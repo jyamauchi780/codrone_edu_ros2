@@ -6,6 +6,7 @@
 - This is a package for using CoDrone Edu, developed by Robolink, with ROS2.
 - It is developed for ROS2 Humble, and its functionality with other versions has not been tested.
 - Please use it with due consideration for safety.
+- Disclaimer: This project is not affiliated with, endorsed by, or supported by Robolink. Use at your own risk.
 
 ## System Requirements
 - Robolink CoDrone Edu

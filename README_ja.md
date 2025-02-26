@@ -3,7 +3,7 @@
 [English Version README](https://github.com/jyamauchi780/CoDroneEdu-ROS2/blob/main/README.md)
 
 ## 概要
-- [Robolink](https://www.robolink.com/)から発売されている[CoDrone Edu](https://www.robolink.com/products/codrone-edu)をROS2で使用するためのパッケージです．
+- Robolink から発売されている CoDrone Edu をROS2で使用するための非公式パッケージです．
 - ROS2 Humble用に開発しており，その他のバージョンでの動作は確認していません．
 - 安全には十分配慮して利用してください．
 
@@ -12,6 +12,7 @@
 - Ubuntu 22.04
 - ROS2 Humble 
 - モーションキャプチャシステム（velocity observerを使う場合）
+- 免責事項: 本プロジェクトはRobolinkとは一切関係がなく、公式のサポートは受けていません。利用は自己責任で行ってください。
 
 ## インストール
 ### 実行に必要なPythonパッケージのインストール
