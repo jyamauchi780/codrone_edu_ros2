@@ -15,16 +15,12 @@
 - Motion capture system (when using a velocity observer)
 
 ## Installation
-### Installing required Python packages
 ```sh
     $ sudo apt install ros-humble-tf-transformations
-    $ pip install -r requirements.txt
-```
-### Build
-```sh
-    $ mkdir -p ~/ros2_ws/src/
-    $ cd ~/ros2_ws/src
+    $ mkdir -p ~/ros2_ws/src/ && cd ~/ros2_ws/src
     $ git clone https://github.com/jyamauchi780/codrone_edu_ros2.git
+    $ cd ~/ros2_ws/src/codrone_edu_ros2
+    $ pip install -r requirements.txt
     $ cd ~/ros2_ws
     $ colcon build --symlink-install
     $ . ~/ros2_ws/install/setup.bash
