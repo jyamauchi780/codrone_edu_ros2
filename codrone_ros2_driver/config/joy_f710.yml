@@ -1,0 +1,9 @@
+/**:
+  ros__parameters:
+    axis_cmd_linear_x       : 1
+    axis_cmd_linear_y       : 0
+    axis_cmd_linear_z       : 4
+    axis_cmd_angular_z      : 3
+    button_land             : 6
+    button_takeoff          : 7
+    button_emergencystop    : 8

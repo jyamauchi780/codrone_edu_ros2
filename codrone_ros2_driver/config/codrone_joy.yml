@@ -1,0 +1,18 @@
+/**:
+  ros__parameters:
+    axis_linear_x       : 0
+    axis_inear_y       : 1
+    axis_linear_z       : 2
+    axis_angular_z      : 3
+
+    button_l1               : 0
+    button_r1               : 1
+    button_l2               : 2
+    button_r2               : 3
+    button_left             : 4
+    button_down             : 5
+    button_right            : 6
+    button_up               : 7
+    button_h                : 8
+    button_s                : 9
+    button_p                : 10

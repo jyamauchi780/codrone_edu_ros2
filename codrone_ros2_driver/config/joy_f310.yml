@@ -1,0 +1,11 @@
+/**:
+  ros__parameters:
+    button_shutdown_1       : 8
+    button_shutdown_2       : 7
+
+    button_motor_off        : 8
+    button_motor_on         : 7
+
+    button_cmd_enable       : 4
+    axis_cmd_linear_x       : 0
+    axis_cmd_angular_z      : 1

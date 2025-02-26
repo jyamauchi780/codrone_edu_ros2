@@ -1,0 +1,13 @@
+# ROS
+**/__pycache__/** 
+
+# VSCode
+.vs
+.vscode
+
+# MATLAB
+*/matlab/
+*/data/
+
+# MacOS
+.DS_Store
